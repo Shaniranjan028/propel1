@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+
+header {
+  margin-top: 0;
+  background-color: blue;
+}
+
+h1 {
+  margin: 20px 0;
+  color: white;
+}
+
+#calculator {
+  margin: 0 450px;
+  height: auto;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+
+#calc-action {
+  margin: 15px;
+}
+button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+}
+
+#result {
+  margin: 10px 450px;
+  height: auto;
+  border: 2px solid blue;
+  border-radius: 10px;
+}
